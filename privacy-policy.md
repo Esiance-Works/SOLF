@@ -64,4 +64,4 @@ Esiance Works（以下「当方」）は、Androidアプリ「BlockBaster」（�
 
 運営者: Esiance Works
 
-お問い合わせ: **[ここに連絡先メールアドレスを記載]**
+お問い合わせ: esiance.works@gmail.com
